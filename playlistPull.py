@@ -4,7 +4,7 @@ import spotipy.util as util
 from spotipy.oauth2 import SpotifyClientCredentials
 
 #Need to enter the following in terminal prior to running. Proper syntax to run is 'python playlistPull.py <yourspotifyusername>'
-# export SPOTIPY_CLIENT_ID='7b00e2e252244c9789e862e391de1306'
+# export SPOTIPY_CLIENT_ID='REDACTED'
 # export SPOTIPY_CLIENT_SECRET='dcbbe3b243c549578dbca789858bd222'
 # export SPOTIPY_REDIRECT_URI='http://google.com/'
 
