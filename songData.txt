@@ -1,4 +1,0 @@
-Due to the 25MB filesize limit on Github, here is the link to generated song data. It's in a JSON format, but the filetype is .txt.
-It just needs to be putinto Solr and we should be good.
-
-https://drive.google.com/open?id=1BPyEgXSKvPw41D8EdxXoMQLoovVK7pnd
